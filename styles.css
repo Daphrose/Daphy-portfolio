@@ -282,9 +282,12 @@ margin-left: 50px;
   .home-page{
     margin-left: 40px;
   }
+  
+
 }
 
  @media(max-width: 768px){
+   
     #home{
         display: flex;
         flex-direction: column;
@@ -344,6 +347,7 @@ margin-left: 50px;
         text-align: center;
         padding: 10px 0;
     }
+   
  }
  @media screen and  (min-width: 769px) and (max-width:3000px){
     #menu-icon{
